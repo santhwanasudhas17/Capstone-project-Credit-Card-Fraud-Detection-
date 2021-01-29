@@ -1,0 +1,2 @@
+# Capstone-project-Credit-Card-Fraud-Detection-
+Objective here is to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase. This model is then used to identify whether a new transaction is fraudulent or not. Our aim here is to detect as much of the fraudulent transactions as possible, while minimizing the incorrect fraud classifications.
